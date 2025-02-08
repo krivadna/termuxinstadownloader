@@ -147,16 +147,8 @@ This tool is for educational purposes only. Please respect Instagram's terms of 
 
 ## ⭐ Show your support
 
-Give a ⭐️ if this project helped you!
+[![Support Project](https://img.shields.io/badge/Support_This_Project-Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://www.buymeacoffee.com/your-username](https://buymeacoffee.com/kalkimahavatar))
 
-<!-- Custom Style with Heart -->
-[![Support Me](https://img.shields.io/badge/☕_Buy_me_a_coffee-red?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=black)](https://buymeacoffee.com/kalkimahavatar)
-
-<!-- Alternative Button Style -->
-[![Support Project](https://img.shields.io/badge/Support_This_Project-Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/your-username)
-
-<!-- Official Buy Me A Coffee Image Button -->
-<a href="https://buymeacoffee.com/kalkimahavatar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217"></a>
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
