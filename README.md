@@ -117,6 +117,11 @@ pip install --upgrade instaloader
 
 [![Watch Demo](https://img.shields.io/badge/Watch_Demo-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/c/2308295199/45)
 
+## Check YouTube Downloader for Termux
+
+![YouTube](https://img.shields.io/badge/YouTube-Downloader-red?style=flat&logo=youtube&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-Compatible-green?style=flat)
+
 ## 💼 Professional Services
 
 Contact for:
