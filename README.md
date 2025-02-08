@@ -14,7 +14,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=krivadna.termuxinstadownloader)
 
-< 🚀 A powerful Instagram video/reel downloader for Termux with metadata support
+> 🚀 A powerful Instagram video/reel downloader for Termux with metadata support
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Built%20for-Termux-black?style=for-the-badge&logo=terminal&logoColor=white" alt="Built for Termux"/>
