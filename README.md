@@ -129,6 +129,12 @@ Contact for:
 
 This tool is for educational purposes only. Please respect Instagram's terms of service and content creators' rights.
 
+
+
+## ⭐ Show your support
+
+Give a ⭐️ if this project helped you!
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -142,17 +148,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   <img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
 </p>
-
-
-## ⭐ Show your support
-
-Give a ⭐️ if this project helped you!
-
-## 📜 Developer's Note
-
-Built with ❤️ for the Termux community. If you find any bugs or have feature requests, please open an issue!
-
----
-<div align="center">
-Created with 💫 by <a href="https://github.com/krivadna">Cyber Kalki</a>
-</div>
