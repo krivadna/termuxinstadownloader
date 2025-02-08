@@ -18,7 +18,9 @@
 🚀 A powerful Instagram video/reel downloader for Termux with metadata support
 
 </div>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Built%20for-Termux-black?style=for-the-badge&logo=terminal&logoColor=white" alt="Built for Termux"/>
+</div>
 ## ✨ Features
 
 - 📥 Download Instagram videos and reels
