@@ -2,14 +2,8 @@
 
 <div align="center">
 
-```
-██╗████████╗██████╗ ██╗     
-██║╚══██╔══╝██╔══██╗██║     
-██║   ██║   ██║  ██║██║     
-██║   ██║   ██║  ██║██║     
-██║   ██║   ██████╔╝███████╗
-╚═╝   ╚═╝   ╚═════╝ ╚══════╝
-```
+
+![Animated Banner](https://i.imgur.com/pgPeuEe.jpeg)
 
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=krivadna.termuxinstadownloader)
@@ -21,7 +15,6 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
 
-![Animated Banner](https://i.imgur.com/pgPeuEe.jpeg)
 
 ## ✨ Features
 
