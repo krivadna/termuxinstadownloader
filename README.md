@@ -23,13 +23,13 @@
 
 ## ✨ Features
 
-- 📥 Download Instagram videos and reels
+- 📥 Download Instagram videos and reels in highest quality 
 - 📝 Save post descriptions and metadata
 - 🎯 Simple command-line interface
 - 🚄 Fast and efficient downloads
-- 📱 Optimized for Termux
-- 🎨 Beautiful progress display
+- 📱 Optimized for Termux Enviornment 
 - 📂 Organized file storage
+- ✅ No login required
 
 ## 🔧 Installation
 
