@@ -119,8 +119,7 @@ pip install --upgrade instaloader
 
 ## Check YouTube Downloader for Termux
 
-![YouTube](https://img.shields.io/badge/YouTube-Downloader-red?style=flat&logo=youtube&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-Compatible-green?style=flat)
+[![CloneNow](https://img.shields.io/badge/⬇️_Download_Now-blue?style=for-the-badge&labelColor=black)](https://github.com/krivadna/Youtubedownloadtermux/)
 
 ## 💼 Professional Services
 
