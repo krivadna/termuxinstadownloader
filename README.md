@@ -4,6 +4,7 @@
 
 [![Clone Repository](https://img.shields.io/badge/📥_Clone_This_Repository-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/krivadna/termuxinstadownloader.git)
 
+
 ![Animated Banner](https://i.imgur.com/pgPeuEe.jpeg)
 
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
@@ -121,7 +122,7 @@ pip install --upgrade instaloader
 ## Check YouTube Downloader for Termux
 
 [![CloneNow](https://img.shields.io/badge/⬇️_Download_Now-blue?style=for-the-badge&labelColor=black)](https://github.com/krivadna/Youtubedownloadtermux/)
-
+[![Check Repository](https://img.shields.io/badge/📥_Check_This_Repository-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/krivadna/Youtubedownloadtermux)
 
 ## 💼 Professional Services
 
