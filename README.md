@@ -121,6 +121,8 @@ pip install --upgrade instaloader
 
 [![CloneNow](https://img.shields.io/badge/⬇️_Download_Now-blue?style=for-the-badge&labelColor=black)](https://github.com/krivadna/Youtubedownloadtermux/)
 
+[![Clone Repository](https://img.shields.io/badge/📥_Clone_This_Repository-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/krivadna/Youtubedownloadtermux)
+
 ## 💼 Professional Services
 
 Contact for:
