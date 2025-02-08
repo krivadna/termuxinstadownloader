@@ -1,5 +1,4 @@
 
-
 import instaloader as il_89x
 import re as rgx_7y
 import sys as sys_2k
@@ -20,8 +19,8 @@ def display_banner():
                                                  
     \033[1;32m[ Instagram Termux Downloader ]\033[0m
     \033[1;33m[ Created by Cyber Kalki ]\033[0m
-    \033[1;34m[ https://kalkikrivadna.com ]\033[0m
-    \033[1;35m[ https://github.com/krivadna ]\033[0m
+    \033[1;34m[\x1b]8;;https://kalkikrivadna.com\x1b\\https://kalkikrivakrivadna.com\x1b]8;;\x1b\\]\033[0m
+    \033[1;35m[\x1b]8;;https://github.com/krivadna\x1b\\https://github.com/krivadna\x1b]8;;\x1b\\]\033[0m
     """
     print(banner)
     tm_5p.sleep(1)
