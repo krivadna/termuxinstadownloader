@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Built%20for-Termux-black?style=for-the-badge&logo=terminal&logoColor=white" alt="Built for Termux"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
-
+![Animated Banner](https://i.imgur.com/pgPeuEe.jpeg)
 ## ✨ Features
 
 - 📥 Download Instagram videos and reels in highest quality 
