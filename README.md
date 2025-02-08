@@ -128,11 +128,30 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/cyberkalki/instagram-termux-downloader/issues).
 
-## 👨‍💻 Author
+## 💼 Professional Services
 
-**Cyber Kalki**
-- Website: [https://kalkikrivadna.com](https://kalkikrivadna.com)
-- GitHub: [@cyberkalki](https://github.com/krivadna)
+Contact for:
+- 🔧 Custom implementations
+- 🎯 Specific feature requests
+- 💻 Integration support
+- 🛠️ Technical consultation
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by Cyber Kalki</sub>
+</div>
+
+<!-- Custom Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
+</p>
+
+
 
 ## ⭐ Show your support
 
