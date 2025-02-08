@@ -12,7 +12,8 @@
 ```
 
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=krivadna.termuxinstadownloader)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 [![Termux](https://img.shields.io/badge/Termux-Support-purple.svg)](https://termux.com/)
 
 🚀 A powerful Instagram video/reel downloader for Termux with metadata support
