@@ -133,11 +133,6 @@ This tool is for educational purposes only. Please respect Instagram's terms of 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/cyberkalki/instagram-termux-downloader/issues).
-
----
 
 <div align="center">
   <sub>Built with ❤️ by Cyber Kalki</sub>
