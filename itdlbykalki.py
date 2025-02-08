@@ -1,7 +1,4 @@
-# Instagram Termux Downloader (ITDL)
-# Created by Cyber Kalki
-# Website: https://cyberkalki.com
-# GitHub: https://github.com/cyberkalki
+
 
 import instaloader as il_89x
 import re as rgx_7y
