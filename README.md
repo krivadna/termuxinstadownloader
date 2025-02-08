@@ -53,8 +53,8 @@ termux-setup-storage
 
 5. Clone the repository:
 ```bash
-git clone https://github.com/cyberkalki/instagram-termux-downloader
-cd instagram-termux-downloader
+git clone https://github.com/krivadna/termuxinstadownloader.git
+cd termuxinstadownloader
 ```
 
 ## 💫 Usage
