@@ -12,7 +12,7 @@
 ```
 
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 [![Termux](https://img.shields.io/badge/Termux-Support-purple.svg)](https://termux.com/)
 
 🚀 A powerful Instagram video/reel downloader for Termux with metadata support
