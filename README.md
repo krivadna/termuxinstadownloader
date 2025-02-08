@@ -60,12 +60,12 @@ cd termuxinstadownloader
 ## 💫 Usage
 
 ```bash
-python insta2.py <instagram_post_url>
+python itdlbykalki.py <instagram_post_url>
 ```
 
 Example:
 ```bash
-python insta2.py https://www.instagram.com/reel/XXXXXXXXXXXX/
+python itdlbykalki.py https://www.instagram.com/reel/XXXXXXXXXXXX/
 ```
 
 ## 📂 File Locations
