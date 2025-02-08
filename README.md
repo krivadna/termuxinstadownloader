@@ -118,6 +118,9 @@ pip install --upgrade instaloader
 - **Organized Storage**: Creates dedicated directories for downloads
 - **Color Coding**: Beautiful color-coded terminal output
 
+## 🎥 Live Demo
+
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/c/2308295199/45)
 
 ## 💼 Professional Services
 
