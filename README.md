@@ -119,6 +119,10 @@ pip install --upgrade instaloader
 
 [![Watch Demo](https://img.shields.io/badge/Watch_Demo-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/c/2308295199/45)
 
+## Access our Instagram downloader Bot on Telegram
+
+https://t.me/saveinstagrambykalki_bot
+
 ## ⏯️ YouTube Downloader for Termux (YTDL)
 
 [![Check Repository](https://img.shields.io/badge/📥_Check_Repository-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/krivadna/Youtubedownloadtermux)
