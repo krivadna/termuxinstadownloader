@@ -127,6 +127,11 @@ https://t.me/saveinstagrambykalki_bot
 
 [![Check Repository](https://img.shields.io/badge/📥_Check_Repository-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/krivadna/Youtubedownloadtermux)
 
+
+## ⏯️ X Twitter Downloader for Termux (XDL)
+
+[![Check Repository](https://img.shields.io/badge/📥_Check_Repository-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/krivadna/xdlbykalki)
+
 ## 💼 Professional Services
 
 Contact for:
