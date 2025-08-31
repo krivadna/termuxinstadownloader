@@ -121,7 +121,7 @@ pip install --upgrade instaloader
 
 ## Access our Instagram downloader Bot on Telegram
 
-https://t.me/saveinstagrambykalki_bot
+[![Instagram Telegram Bot](https://img.shields.io/badge/Instagram%20Downloader-Bot-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2CA5E0&color=E4405F)](https://t.me/instagram_load_bot)
 
 ## ⏯️ YouTube Downloader for Termux (YTDL)
 
